@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karan !</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Java, HTML, CSS**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript(basics)**
 
 - 📫 How to reach me **karanupadhyay7111@gmail.com**
 
